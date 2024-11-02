@@ -2,9 +2,9 @@
 
 ## Description
 
-In order to deploy all services needed in this project "tiny entreprise", an underlying architecture is required which is based on the project [kingdominion]().
+In order to deploy all services needed in this project "tiny company", an underlying architecture is required which is based on the project [kingdominion]().
 
-## Usage 
+## Usage
 
-See project **Kingdominion** in order to deploy a simple test architecture for tiny entreprise project.
+See project **Kingdominion** in order to deploy a simple test architecture for tiny company project.
 
