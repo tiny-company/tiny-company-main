@@ -2,7 +2,7 @@
 
 ## Description
 
-In order to deploy all services needed in this project "tiny company", an underlying architecture is required which is based on the project [kingdominion]().
+In order to deploy all services needed in this project "tiny company", an underlying architecture is required which is based on the project [draed/kingdominion]().
 
 ## Usage
 
